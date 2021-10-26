@@ -1,4 +1,4 @@
-const title = 'EXOTIC',
+const title = 'lixrs',
     loading = ['|','/','-','\\'];
 
 var loadingChar = loading[0],
